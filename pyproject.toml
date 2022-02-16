@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "groups"
+version = "0.1.0"
+description = ""
+authors = ["Matt Williams <m.williams@society-rse.org>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+tomli = "^2.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[tool.poetry.scripts]
+generate = 'groups:generate_geojson'
+convert_old = 'groups:convert_kml_to_toml'
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

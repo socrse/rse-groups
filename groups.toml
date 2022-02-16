@@ -1,0 +1,289 @@
+[alan-turing-institute]
+name = "Alan Turing Institute"
+head = "Martin O'Reilly"
+website = "https://www.turing.ac.uk/research-engineering"
+email = "moreilly@turing.ac.uk"
+phone = "020 3862 3359"
+twitter = "@turinghut23"
+postcode = "NW1 2DB"
+lat = 51.529985
+lon = -0.127014
+
+[ukaea]
+name = "UKAEA"
+head = "Alys Brett"
+website = "No external website but https://twitter.com/RSECulham"
+email = "alys.brett@ukaea.uk"
+phone = "01235 465025"
+twitter = "@RSECulham"
+postcode = "OX14 3EB"
+lat = 51.658881
+lon = -1.227663
+
+[university-of-bath]
+name = "University of Bath"
+head = "Conn O'Rourke"
+website = "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineer/"
+email = "rse-support@bath.ac.uk / cor22@bath.ac.uk"
+phone = "01225 386940"
+postcode = "BA2 7AY"
+lat = 51.379324
+lon = -2.327157
+
+[university-of-birmingham]
+name = "University of Birmingham"
+head = "Andrew Edmondson"
+website = "https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/research-software-group.aspx"
+postcode = "B15 2TT"
+lat = 52.453282
+lon = -1.92789
+
+[university-of-bristol]
+name = "University of Bristol"
+head = "Christopher Woods"
+website = "No good external website, but https://www.bristol.ac.uk/acrc/research-software-engineering/"
+email = "ask-rse@bristol.ac.uk"
+phone = "No phone number (21C email, slack, twitter only)"
+twitter = "@BristolRSE"
+postcode = "BS8 1TH"
+lat = 51.459066
+lon = -2.603291
+
+[university-of-bristol-rit]
+name = "University of Bristol"
+head = "Susan Pywell"
+website = "https://www.bristol.ac.uk/research-it/"
+email = "research-it@bristol.ac.uk"
+phone = "(0117) 39 41720"
+twitter = "@BrisUniRIT"
+postcode = "BS1 5QD"
+lat = 51.452834
+lon = -2.605137
+
+[university-of-cambridge]
+name = "University of Cambridge"
+head = "Chris Edsall"
+website = "rse.group.cam.ac.uk"
+email = "cje57@cam.ac.uk"
+twitter = "@RSECambridge"
+postcode = "CB2 1TN"
+lat = 52.205105
+lon = 0.116179
+
+[university-of-cardiff]
+name = "University of Cardiff"
+postcode = "CF10 3AT"
+lat = 51.489014
+lon = -3.179717
+
+[durham-university]
+name = "Durham University"
+head = "Ed Ruck-Keene"
+website = "https://www.dur.ac.uk/arc/rse"
+email = "arc@durham.ac.uk"
+twitter = "@ARC_DU"
+postcode = "DH1 3LE"
+lat = 54.768112
+lon = -1.571874
+
+[epcc]
+name = "EPCC"
+head = "Lorna Smith/Andy Turner"
+website = "http://www.epcc.ed.ac.uk"
+email = "info@epcc.ed.ac.uk"
+phone = "0131 650 5030"
+postcode = "EH8 9BT"
+lat = 55.94527
+lon = -3.186426
+
+[francis-crick-institute]
+name = "Francis Crick Institute"
+postcode = "NW1 1AT"
+lat = 51.531854
+lon = -0.128033
+
+[imperial-college-london]
+name = "Imperial College London"
+website = "https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/"
+email = "rse-team-lead@imperial.ac.uk"
+postcode = "SW7 2AZ"
+lat = 51.498317
+lon = -0.176923
+
+[kings-college-london]
+name = "Kings College London"
+postcode = "WC2R 2LS"
+lat = 51.511612
+lon = -0.116253
+
+[university-of-leeds]
+name = "University of Leeds"
+head = "Martin Callaghan"
+website = "https://arc.leeds.ac.uk"
+email = "m.callaghan@leeds.ac.uk"
+postcode = "LS2 9JT"
+lat = 53.807958
+lon = -1.553329
+
+[university-of-leicester]
+name = "University of Leicester"
+postcode = "LE1 7RH"
+lat = 52.622086
+lon = -1.124531
+
+[the-university-of-manchester]
+name = "The University of Manchester"
+head = "Robert Haines"
+website = "http://www.itservices.manchester.ac.uk/research/"
+email = "robert.haines@manchester.ac.uk"
+phone = "0161 275 7821"
+postcode = "M13 9PL"
+lat = 53.466926
+lon = -2.233578
+
+[newcastle-university]
+name = "Newcastle University"
+head = "Mark Turner"
+email = "mark.turner@ncl.ac.uk"
+postcode = "NE1 7RU"
+lat = 54.98032
+lon = -1.615713
+
+[university-of-nottingham]
+name = "University of Nottingham"
+head = "Philip Quinlan"
+email = "Philip.Quinlan@nottingham.ac.uk"
+postcode = "NG7 2RD"
+lat = 52.940521
+lon = -1.191193
+
+[open-university]
+name = "Open University"
+head = "Michelle Bachler"
+email = "Michelle Bachler"
+phone = "01908 659836"
+postcode = "MK7 6AA"
+lat = 52.024914
+lon = -0.709747
+
+[university-of-oxford-]
+name = "University of Oxford "
+head = "David Gavaghan"
+website = "https://www.cs.ox.ac.uk/projects/RSE/"
+email = "rse@cs.ox.ac.uk"
+phone = "01865 610671"
+postcode = "OX1 3QD"
+lat = 51.759895
+lon = -1.258503
+
+[queen-mary-university-of-london]
+name = "Queen Mary University of London"
+head = "Iain Barrass"
+email = "its-research-support@qmul.ac.uk; i.barrass@qmul.ac.uk"
+postcode = "E1 4NS"
+lat = 51.524636
+lon = -0.04071
+
+[university-of-reading]
+name = "University of Reading"
+head = "Paul Heaton & Maria Broadbridge"
+website = "https://research.reading.ac.uk/rse/"
+email = "p.m.heaton@reading.ac.uk; m.b.broadbridge@reading.ac.uk"
+postcode = "RG6 6AH"
+lat = 51.457625
+lon = -0.945636
+
+[the-university-of-sheffield]
+name = "The University of Sheffield"
+head = "Paul Richmond"
+website = "http://rse.shef.ac.uk"
+email = "rse@sheffield.ac.uk"
+twitter = "RSE_Sheffield"
+postcode = "S10 2TN"
+lat = 53.381363
+lon = -1.48853
+
+[university-of-southampton]
+name = "University of Southampton"
+head = "Simon Hettrick and John Robinson"
+website = "https://rsgsoton.net/"
+email = "rsg-info@soton.ac.uk"
+phone = "02380 595729"
+twitter = "@RSGSoton"
+postcode = "SO17 1BJ"
+lat = 50.934099
+lon = -1.395714
+
+[university-of-st-andrews]
+name = "University of St Andrews"
+head = "Alexander Konovalov"
+website = "Under construction (newly established Research Software Group at the School of Computer Science) https://rse.cs.st-andrews.ac.uk/"
+email = "alexander.konovalov@st-andrews.ac.uk"
+phone = "01334 461633"
+postcode = "KY16 9SX"
+lat = 56.339949
+lon = -2.809421
+
+[university-of-st-andrews-rescomp]
+name = "University of St Andrews"
+head = "Patrick McCann/Swithun Crowe/ Mary Woodcock Kroble"
+website = "(slightly out-of-date; new site expected soon) https://www.st-andrews.ac.uk/library/services/researchsupport/digihum-rescomp/"
+email = "research-computing@st-andrews.ac.uk"
+postcode = "KY16 9AL"
+lat = 56.341752
+lon = -2.793303
+
+[stfc-software-engineering-group]
+name = "STFC Software Engineering Group"
+head = "Alejandra Gonzalez-Beltran"
+website = "https://www.scd.stfc.ac.uk/Pages/Software-Engineering-Group.aspx"
+email = "alejandra.gonzalez-beltran@stfc.ac.uk"
+phone = "+44 (0)1235 446339"
+postcode = "OX11 0QX"
+lat = 51.574887
+lon = -1.314517
+
+[university-of-strathclyde]
+name = "University of Strathclyde"
+head = "Oliver Henrich"
+email = "oliver.henrich@strath.ac.uk"
+phone = "0141 548 4012"
+postcode = "G4 0NG"
+lat = 55.861521
+lon = -4.239865
+
+[swansea-academy-of-advanced-computing-swansea-university]
+name = "Swansea Academy of Advanced Computing, Swansea University"
+head = "Ed Bennett/Mark Dawson"
+website = "No external website but https://twitter.com/sa2c_swansea"
+email = "e.j.bennett@swansea.ac.uk/mark.dawson@swansea.ac.uk"
+phone = "01792 513617"
+postcode = "SA1 8EN"
+lat = 51.6188
+lon = -3.879405
+
+[university-college-london]
+name = "University College London"
+head = "Jonathan Cooper"
+website = "http://www.ucl.ac.uk/research-it-services/research-software-development"
+email = "rc-softdev@ucl.ac.uk"
+phone = "020 310 86297"
+postcode = "WC1E 6BT"
+lat = 51.523569
+lon = -0.132424
+
+[university-of-york]
+name = "University of York"
+postcode = "YO10 5DD"
+lat = 53.948419
+lon = -1.053544
+
+[university-of-exeter]
+name = "University of Exeter"
+head = "James Allen"
+website = "https://www.exeter.ac.uk/idsai/team/researchsoftwareengineers/"
+email = "J.A.Allen@exeter.ac.uk"
+postcode = "EX4 4PY"
+lat = 50.735424
+lon = -3.534504
+
