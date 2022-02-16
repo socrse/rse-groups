@@ -20,22 +20,19 @@ jobs:
         run: poetry install
       - name: Generate the GeoJSON
         run: poetry run generate
+      - name: Archive GeoJSON
+        uses: actions/upload-artifact@v2
+        with:
+          name: groups.json
+          path: groups.json
   deploy:
     runs-on: ubuntu-latest
     needs: [generate]
     if: ${{ github.ref == 'refs/heads/master' && github.event_name != 'pull_request' }}
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.x"
-      - name: Install Poetry
-        run: pip install poetry
-      - name: Setup package
-        run: poetry install
-      - name: Generate the GeoJSON
-        run: poetry run generate
+      - name: Download all workflow run artifacts
+        uses: actions/download-artifact@v2
       - name: Move everything into place
         run: |
           mkdir build
