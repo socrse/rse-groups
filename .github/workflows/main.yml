@@ -37,7 +37,7 @@ jobs:
       - name: Generate the GeoJSON
         run: poetry run generate
       - name: Move everything into place
-        run: >
+        run: |
           mkdir build
           cp groups.json build
           cp rse-groups.js build
