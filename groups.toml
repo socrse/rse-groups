@@ -1,4 +1,4 @@
-[alan-turing-institute]
+[ati]
 name = "Alan Turing Institute"
 head = "Martin O'Reilly"
 website = "https://www.turing.ac.uk/research-engineering"
@@ -20,7 +20,7 @@ postcode = "OX14 3EB"
 lat = 51.658881
 lon = -1.227663
 
-[university-of-bath]
+[bath]
 name = "University of Bath"
 head = "Conn O'Rourke"
 website = "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineer/"
@@ -30,7 +30,7 @@ postcode = "BA2 7AY"
 lat = 51.379324
 lon = -2.327157
 
-[university-of-birmingham]
+[birmingham]
 name = "University of Birmingham"
 head = "Andrew Edmondson"
 website = "https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/research-software-group.aspx"
@@ -38,7 +38,7 @@ postcode = "B15 2TT"
 lat = 52.453282
 lon = -1.92789
 
-[university-of-bristol]
+[bristol]
 name = "University of Bristol"
 head = "Christopher Woods"
 website = "No good external website, but https://www.bristol.ac.uk/acrc/research-software-engineering/"
@@ -49,7 +49,7 @@ postcode = "BS8 1TH"
 lat = 51.459066
 lon = -2.603291
 
-[university-of-bristol-rit]
+[bristol-rit]
 name = "University of Bristol"
 head = "Susan Pywell"
 website = "https://www.bristol.ac.uk/research-it/"
@@ -60,7 +60,7 @@ postcode = "BS1 5QD"
 lat = 51.452834
 lon = -2.605137
 
-[university-of-cambridge]
+[cambridge]
 name = "University of Cambridge"
 head = "Chris Edsall"
 website = "rse.group.cam.ac.uk"
@@ -70,13 +70,13 @@ postcode = "CB2 1TN"
 lat = 52.205105
 lon = 0.116179
 
-[university-of-cardiff]
+[cardiff]
 name = "University of Cardiff"
 postcode = "CF10 3AT"
 lat = 51.489014
 lon = -3.179717
 
-[durham-university]
+[durham]
 name = "Durham University"
 head = "Ed Ruck-Keene"
 website = "https://www.dur.ac.uk/arc/rse"
@@ -116,7 +116,7 @@ postcode = "WC2R 2LS"
 lat = 51.511612
 lon = -0.116253
 
-[university-of-leeds]
+[leeds]
 name = "University of Leeds"
 head = "Martin Callaghan"
 website = "https://arc.leeds.ac.uk"
@@ -125,13 +125,13 @@ postcode = "LS2 9JT"
 lat = 53.807958
 lon = -1.553329
 
-[university-of-leicester]
+[leicester]
 name = "University of Leicester"
 postcode = "LE1 7RH"
 lat = 52.622086
 lon = -1.124531
 
-[the-university-of-manchester]
+[manchester]
 name = "The University of Manchester"
 head = "Robert Haines"
 website = "http://www.itservices.manchester.ac.uk/research/"
@@ -141,7 +141,7 @@ postcode = "M13 9PL"
 lat = 53.466926
 lon = -2.233578
 
-[newcastle-university]
+[newcastle]
 name = "Newcastle University"
 head = "Mark Turner"
 email = "mark.turner@ncl.ac.uk"
@@ -149,7 +149,7 @@ postcode = "NE1 7RU"
 lat = 54.98032
 lon = -1.615713
 
-[university-of-nottingham]
+[nottingham]
 name = "University of Nottingham"
 head = "Philip Quinlan"
 email = "Philip.Quinlan@nottingham.ac.uk"
@@ -166,7 +166,7 @@ postcode = "MK7 6AA"
 lat = 52.024914
 lon = -0.709747
 
-[university-of-oxford-]
+[oxford]
 name = "University of Oxford "
 head = "David Gavaghan"
 website = "https://www.cs.ox.ac.uk/projects/RSE/"
@@ -184,7 +184,7 @@ postcode = "E1 4NS"
 lat = 51.524636
 lon = -0.04071
 
-[university-of-reading]
+[reading]
 name = "University of Reading"
 head = "Paul Heaton & Maria Broadbridge"
 website = "https://research.reading.ac.uk/rse/"
@@ -193,7 +193,7 @@ postcode = "RG6 6AH"
 lat = 51.457625
 lon = -0.945636
 
-[the-university-of-sheffield]
+[sheffield]
 name = "The University of Sheffield"
 head = "Paul Richmond"
 website = "http://rse.shef.ac.uk"
@@ -203,7 +203,7 @@ postcode = "S10 2TN"
 lat = 53.381363
 lon = -1.48853
 
-[university-of-southampton]
+[southampton]
 name = "University of Southampton"
 head = "Simon Hettrick and John Robinson"
 website = "https://rsgsoton.net/"
@@ -214,7 +214,7 @@ postcode = "SO17 1BJ"
 lat = 50.934099
 lon = -1.395714
 
-[university-of-st-andrews]
+[st-andrews]
 name = "University of St Andrews"
 head = "Alexander Konovalov"
 website = "Under construction (newly established Research Software Group at the School of Computer Science) https://rse.cs.st-andrews.ac.uk/"
@@ -224,7 +224,7 @@ postcode = "KY16 9SX"
 lat = 56.339949
 lon = -2.809421
 
-[university-of-st-andrews-rescomp]
+[st-andrews-rescomp]
 name = "University of St Andrews"
 head = "Patrick McCann/Swithun Crowe/ Mary Woodcock Kroble"
 website = "(slightly out-of-date; new site expected soon) https://www.st-andrews.ac.uk/library/services/researchsupport/digihum-rescomp/"
@@ -243,7 +243,7 @@ postcode = "OX11 0QX"
 lat = 51.574887
 lon = -1.314517
 
-[university-of-strathclyde]
+[strathclyde]
 name = "University of Strathclyde"
 head = "Oliver Henrich"
 email = "oliver.henrich@strath.ac.uk"
@@ -252,7 +252,7 @@ postcode = "G4 0NG"
 lat = 55.861521
 lon = -4.239865
 
-[swansea-academy-of-advanced-computing-swansea-university]
+[swansea]
 name = "Swansea Academy of Advanced Computing, Swansea University"
 head = "Ed Bennett/Mark Dawson"
 website = "No external website but https://twitter.com/sa2c_swansea"
@@ -272,13 +272,13 @@ postcode = "WC1E 6BT"
 lat = 51.523569
 lon = -0.132424
 
-[university-of-york]
+[york]
 name = "University of York"
 postcode = "YO10 5DD"
 lat = 53.948419
 lon = -1.053544
 
-[university-of-exeter]
+[exeter]
 name = "University of Exeter"
 head = "James Allen"
 website = "https://www.exeter.ac.uk/idsai/team/researchsoftwareengineers/"
@@ -286,4 +286,3 @@ email = "J.A.Allen@exeter.ac.uk"
 postcode = "EX4 4PY"
 lat = 50.735424
 lon = -3.534504
-
