@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: © 2022 Matt Williams <matt@milliams.com>
+# SPDX-License-Identifier: MIT
+
 __version__ = '0.1.0'
 
 from difflib import get_close_matches

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: © 2022 Matt Williams <matt@milliams.com>
+# SPDX-License-Identifier: MIT
+
 [tool.poetry]
 name = "groups"
 version = "0.1.0"
