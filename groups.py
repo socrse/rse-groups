@@ -1,8 +1,10 @@
 __version__ = '0.1.0'
 
+from difflib import get_close_matches
 import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
+from typing import List
 
 import tomli
 
@@ -24,7 +26,10 @@ def generate_geojson():
 
         if not group.keys() <= valid_keys:
             invalid_keys = group.keys() - valid_keys
-            raise ValueError(f"The RSE group '{group_id}' has invalid keys: {invalid_keys}")
+            suggestions = ((key, list_to_english(get_close_matches(key, valid_keys))) for key in invalid_keys)
+            suggestion_texts = [f"Found '{k}', did you mean {s}" if s else f"Found '{k}'" for k, s in suggestions]
+            suggestion_text = '\n  '.join(suggestion_texts)
+            raise ValueError(f"The RSE group '{group_id}' has invalid keys:\n  {suggestion_text}")
 
         geo_groups.append({
             "type": "Feature",
@@ -37,6 +42,26 @@ def generate_geojson():
 
     with geojson_path.open("w") as out:
         json.dump(geo_groups, out, indent="  ")
+
+
+def list_to_english(words: List[str]) -> str:
+    """
+    Examples:
+        >>> list_to_english(["a", "b", "c"])
+        "'a', 'b' or 'c'"
+        >>> list_to_english(["a"])
+        "'a'"
+    """
+    if not words:
+        return ""
+    *head, tail = words
+    tail = f"'{tail}'"
+    if head:
+        head = ", ".join(f"'{w}'" for w in head)
+        return f"{head} or {tail}"
+    else:
+        return f"{tail}"
+
 
 def convert_kml_to_toml():
     """
