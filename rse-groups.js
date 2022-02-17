@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: © 2022 Matt Williams <matt@milliams.com>
+ * SPDX-License-Identifier: MIT
+ */
+
 async function create_map(div) {
     var map = L.map(div).setView([55.5, -4.], 6);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
