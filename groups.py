@@ -16,9 +16,16 @@ def generate_geojson():
 
     geo_groups = []
 
+    valid_keys = {"name", "head", "phone", "email", "postcode", "website", "twitter", "lat", "lon"}
+
     for group_id, group in all_groups.items():
         if "name" not in group:
             raise ValueError(f"The RSE group '{group_id}' is missing the `name` key.")
+
+        if not group.keys() <= valid_keys:
+            invalid_keys = group.keys() - valid_keys
+            raise ValueError(f"The RSE group '{group_id}' has invalid keys: {invalid_keys}")
+
         geo_groups.append({
             "type": "Feature",
             "properties": {k:v for k, v in group.items() if k not in ["lat", "lon"]},
