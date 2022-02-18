@@ -4,7 +4,7 @@
  */
 
 async function create_map(div) {
-    var map = L.map(div).setView([55.5, -4.], 6);
+    var map = L.map(div).setView([54, -4.], 6);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>',
         maxZoom: 18,
