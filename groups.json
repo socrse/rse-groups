@@ -210,6 +210,23 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "RESIDE",
+      "head": "Rich FitzJohn",
+      "website": "https://reside-ic.github.io/",
+      "email": "reside@imperial.ac.uk",
+      "postcode": "W2 1NY"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.1735,
+        51.517
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Kings College London",
       "postcode": "WC2R 2LS"
     },
