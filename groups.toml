@@ -54,10 +54,9 @@ lon = -2.603291
 
 [bristol-rit]
 name = "University of Bristol"
-head = "Susan Pywell"
+head = "Serena Cooper"
 website = "https://www.bristol.ac.uk/research-it/"
 email = "research-it@bristol.ac.uk"
-phone = "(0117) 39 41720"
 twitter = "@BrisUniRIT"
 postcode = "BS1 5QD"
 lat = 51.452834
