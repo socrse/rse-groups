@@ -322,9 +322,9 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "University of Oxford ",
-      "head": "David Gavaghan",
-      "website": "https://www.cs.ox.ac.uk/projects/RSE/",
+      "name": "University of Oxford",
+      "head": "Martin Robinson",
+      "website": "https://www.rse.ox.ac.uk/",
       "email": "rse@cs.ox.ac.uk",
       "phone": "01865 610671",
       "postcode": "OX1 3QD"
