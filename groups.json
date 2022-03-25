@@ -547,9 +547,9 @@
     "type": "Feature",
     "properties": {
       "name": "University of Exeter",
-      "head": "James Allen",
+      "head": "Katie Finch",
       "website": "https://www.exeter.ac.uk/idsai/team/researchsoftwareengineers/",
-      "email": "J.A.Allen@exeter.ac.uk",
+      "email": "k.j.finch@exeter.ac.uk",
       "postcode": "EX4 4PY"
     },
     "geometry": {
