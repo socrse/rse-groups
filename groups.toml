@@ -1,8 +1,8 @@
 # SPDX-FileCopyrightText: © 2022 Society of Research Software Engineering <info@society-rse.org>
 # SPDX-License-Identifier: CC0-1.0
 
-[STFC Daresbury Laboratory]
-name = "Computational Science and Engineering Division"
+[stfc_daresbury_laboratory]
+name = "STFC Computational Science and Engineering Division"
 head = "Ilian Todorov"
 website = "https://www.scd.stfc.ac.uk/Pages/Computational-Chemistry-Group.aspx"
 email = "ilian.todorov@tstfc.ac.uk"
