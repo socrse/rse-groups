@@ -20,7 +20,7 @@ jobs:
       - name: Check REUSE spec
         run: reuse lint
   test:
-    name: "Run tests"
+    name: "Run code tests"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
