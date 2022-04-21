@@ -1,6 +1,17 @@
 # SPDX-FileCopyrightText: © 2022 Society of Research Software Engineering <info@society-rse.org>
 # SPDX-License-Identifier: CC0-1.0
 
+[stfc_daresbury_laboratory]
+name = "STFC Computational Science and Engineering Division"
+head = "Ilian Todorov"
+website = "https://www.scd.stfc.ac.uk/Pages/Computational-Chemistry-Group.aspx"
+email = "ilian.todorov@tstfc.ac.uk"
+phone = "01925603681"
+twitter = "@ilian_t_todorov"
+postcode = "WA4 4AD"
+lat = 53.3446
+lon = 2.6400
+
 [ati]
 name = "Alan Turing Institute"
 head = "Martin O'Reilly"
