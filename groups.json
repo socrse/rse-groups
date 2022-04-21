@@ -2,6 +2,25 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "STFC Computational Science and Engineering Division",
+      "head": "Ilian Todorov",
+      "website": "https://www.scd.stfc.ac.uk/Pages/Computational-Chemistry-Group.aspx",
+      "email": "ilian.todorov@tstfc.ac.uk",
+      "phone": "01925603681",
+      "twitter": "@ilian_t_todorov",
+      "postcode": "WA4 4AD"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.64,
+        53.3446
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Alan Turing Institute",
       "head": "Martin O'Reilly",
       "website": "https://www.turing.ac.uk/research-engineering",
