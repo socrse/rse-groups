@@ -308,3 +308,13 @@ email = "k.j.finch@exeter.ac.uk"
 postcode = "EX4 4PY"
 lat = 50.735424
 lon = -3.534504
+
+[Rosalind_Franklin_Institute]
+name = "Rosalind Franklin Institute"
+head = "Mark Basham"
+website = "https://www.rfi.ac.uk/research/artificial-intelligence/"
+email = "mark.basham@rfi.ac.uk"
+twitter = "@basham_mark"
+postcode = "OX11 0QX"
+lat = 51.573541227928786
+lon = -1.314570656497308
