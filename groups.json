@@ -578,5 +578,23 @@
         50.735424
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Rosalind Franklin Institute",
+      "head": "Mark Basham",
+      "website": "https://www.rfi.ac.uk/research/artificial-intelligence/",
+      "email": "mark.basham@rfi.ac.uk",
+      "twitter": "@basham_mark",
+      "postcode": "OX11 0QX"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.314570656497308,
+        51.573541227928786
+      ]
+    }
   }
 ]
