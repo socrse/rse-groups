@@ -115,6 +115,14 @@ postcode = "NW1 1AT"
 lat = 51.531854
 lon = -0.128033
 
+[glasgow-mvls]
+name = "College of Medical, Veterinary & Life Sciences; University of Glasgow"
+head = "Iain Barrass"
+email = "iain.barrass@glasgow.ac.uk"
+postcode = "G12 8QB"
+lat = 55.8739
+lon = -4.2880
+
 [imperial-college-london]
 name = "Imperial College London"
 website = "https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/"
