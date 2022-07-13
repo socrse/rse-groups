@@ -212,6 +212,22 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "College of Medical, Veterinary & Life Sciences; University of Glasgow",
+      "head": "Iain Barrass",
+      "email": "iain.barrass@glasgow.ac.uk",
+      "postcode": "G12 8QB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.288,
+        55.8739
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Imperial College London",
       "website": "https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/",
       "email": "rse-team-lead@imperial.ac.uk",
@@ -376,8 +392,8 @@
     "type": "Feature",
     "properties": {
       "name": "Queen Mary University of London",
-      "head": "Iain Barrass",
-      "email": "its-research-support@qmul.ac.uk; i.barrass@qmul.ac.uk",
+      "head": "(vacant)",
+      "email": "its-research-rse@qmul.ac.uk",
       "postcode": "E1 4NS"
     },
     "geometry": {
