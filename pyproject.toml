@@ -12,7 +12,7 @@ python = "^3.9"
 tomli = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^7.1"
 reuse = "^0.14.0"
 
 [tool.poetry.scripts]
