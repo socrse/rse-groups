@@ -326,3 +326,75 @@ twitter = "@basham_mark"
 postcode = "OX11 0QX"
 lat = 51.573541227928786
 lon = -1.314570656497308
+
+[Gottingen_State_and_University_Library]
+name = "Software and Service Development Group, Gottingen State and University Library"
+website = "https://www.sub.uni-goettingen.de/en/contact/departments-a-z/departmental-and-unit-details/abteilunggruppe/software-und-service-entwicklung/"
+lat = 51.53953
+lon = 9.93603
+
+[netherlands_escience]
+name = "Netherlands eScience Center"
+website = "https://www.esciencecenter.nl"
+lat = 52.35674
+lon = 4.95688
+
+[cape_town]
+name = "eResearch and Computational Biology Division (developers employed by the Division), University of Cape Town"
+website = "http://www.cbio.uct.ac.za/"
+lat = -33.95756
+lon = 18.46118
+
+[western_cape]
+name = "South African National Bioinformatics Institute (developers/devops employed by the Institute), University of the Western Cape"
+website = "https://www.uwc.ac.za/study/all-areas-of-study/institutes/south-african-national-bioinformatics-institute/overview"
+lat = -33.93349
+lon = 18.62799
+
+[National_Bioinformatics_Infrastructure_Sweden]
+name = "National Bioinformatics Infrastructure Sweden"
+website = "https://nbis.se/"
+lat = 59.35047
+lon = 18.02344
+
+[argonne_petsc]
+name = "PETSc Team, Argonne National Laboratory"
+website = "https://www.anl.gov/mcs/petsc-portable-extensible-toolkit-for-scientific-computation"
+lat = 41.71833
+lon = -87.97887
+
+[indiana_d2i_pti]
+name = "Data to Insight Center (D2I) and Pervasive Technology Institute (PTI), Indiana University"
+website = "https://pti.iu.edu/centers/d2i/people.html"
+lat = 39.17328
+lon = -86.51894
+
+[louisiana_state_cct_hpc]
+name = "HPC enablement group, Center for Computation and Technology, Louisiana State University"
+website = "https://www.cct.lsu.edu/programs/hpc-enablement"
+lat = 30.40993
+lon = -91.18003
+
+[nsca_illinois]
+name = "National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign"
+website = "https://www.ncsa.illinois.edu/"
+lat = 40.11492
+lon = -88.22488
+
+[renci]
+name = "Renaissance Computing Institute (RENCI)"
+website = "https://renci.org/"
+lat = 35.939561
+lon = -79.018753
+
+[arcs_viginia]
+name = "Research Computing, University of Virginia"
+website = "https://www.rc.virginia.edu"
+lat = 38.03345
+lon = -78.50793
+
+[princeton]
+name = "Princeton Research Computing"
+website = "https://researchcomputing.princeton.edu"
+lat = 40.34616
+lon = -74.65267
