@@ -612,5 +612,173 @@
         51.573541227928786
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Software and Service Development Group, Gottingen State and University Library",
+      "website": "https://www.sub.uni-goettingen.de/en/contact/departments-a-z/departmental-and-unit-details/abteilunggruppe/software-und-service-entwicklung/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.93603,
+        51.53953
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Netherlands eScience Center",
+      "website": "https://www.esciencecenter.nl"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.95688,
+        52.35674
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "eResearch and Computational Biology Division (developers employed by the Division), University of Cape Town",
+      "website": "http://www.cbio.uct.ac.za/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.46118,
+        -33.95756
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "South African National Bioinformatics Institute (developers/devops employed by the Institute), University of the Western Cape",
+      "website": "https://www.uwc.ac.za/study/all-areas-of-study/institutes/south-african-national-bioinformatics-institute/overview"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.62799,
+        -33.93349
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "National Bioinformatics Infrastructure Sweden",
+      "website": "https://nbis.se/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.02344,
+        59.35047
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "PETSc Team, Argonne National Laboratory",
+      "website": "https://www.anl.gov/mcs/petsc-portable-extensible-toolkit-for-scientific-computation"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.97887,
+        41.71833
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Data to Insight Center (D2I) and Pervasive Technology Institute (PTI), Indiana University",
+      "website": "https://pti.iu.edu/centers/d2i/people.html"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.51894,
+        39.17328
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "HPC enablement group, Center for Computation and Technology, Louisiana State University",
+      "website": "https://www.cct.lsu.edu/programs/hpc-enablement"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -91.18003,
+        30.40993
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign",
+      "website": "https://www.ncsa.illinois.edu/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -88.22488,
+        40.11492
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Renaissance Computing Institute (RENCI)",
+      "website": "https://renci.org/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.018753,
+        35.939561
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Research Computing, University of Virginia",
+      "website": "https://www.rc.virginia.edu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.50793,
+        38.03345
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Princeton Research Computing",
+      "website": "https://researchcomputing.princeton.edu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.65267,
+        40.34616
+      ]
+    }
   }
 ]
