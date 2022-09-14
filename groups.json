@@ -616,6 +616,25 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Queen's University Belfast",
+      "head": "Domhnall Carlin, Andrew Brown",
+      "website": "https://rse-ni.github.io/",
+      "email": "d.carlin@qub.ac.uk, a.brown@qub.ac.uk",
+      "phone": "",
+      "twitter": "",
+      "postcode": "BT7 1NN"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.935766,
+        54.584558
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Software and Service Development Group, Gottingen State and University Library",
       "website": "https://www.sub.uni-goettingen.de/en/contact/departments-a-z/departmental-and-unit-details/abteilunggruppe/software-und-service-entwicklung/"
     },
