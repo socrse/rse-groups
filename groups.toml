@@ -327,6 +327,17 @@ postcode = "OX11 0QX"
 lat = 51.573541227928786
 lon = -1.314570656497308
 
+[RSE-NI]
+name = "Queen's University Belfast"
+head = "Domhnall Carlin, Andrew Brown"
+website = "https://rse-ni.github.io/"
+email = "d.carlin@qub.ac.uk, a.brown@qub.ac.uk"
+phone = ""
+twitter = ""
+postcode = "BT7 1NN"
+lat = 54.584558
+lon = -5.935766
+
 [Gottingen_State_and_University_Library]
 name = "Software and Service Development Group, Gottingen State and University Library"
 website = "https://www.sub.uni-goettingen.de/en/contact/departments-a-z/departmental-and-unit-details/abteilunggruppe/software-und-service-entwicklung/"
