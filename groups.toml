@@ -141,10 +141,22 @@ lat = 51.5170
 lon = 0.1735
 
 [kings-college-london]
-name = "Kings College London"
-postcode = "WC2R 2LS"
-lat = 51.511612
-lon = -0.116253
+name = "King's College London"
+head = "James Graham"
+website = "https://docs.er.kcl.ac.uk/"
+email = "e-research@kcl.ac.uk"
+postcode = "SE1 0NZ"
+lat = 51.505292
+lon = -0.100202
+
+[kings-digital-lab]
+name = "King's Digital Lab"
+head = "Arianna Ciula"
+website = "https://kdl.kcl.ac.uk/"
+email = "kdl-info@kcl.ac.uk"
+postcode = "WC2B 6LE"
+lat = 51.514787
+lon = -0.118018
 
 [leeds]
 name = "University of Leeds"
