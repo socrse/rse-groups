@@ -314,6 +314,14 @@ postcode = "WC1E 6BT"
 lat = 51.523569
 lon = -0.132424
 
+[university-college-london-neuroinformatics]
+name = "Neuroinformatics Unit"
+head = "Adam Tyson"
+email = "adam.tyson@ucl.ac.uk"
+postcode = "W1T 4JG"
+lat = 51.521118
+lon = -0.138367
+
 [york]
 name = "University of York"
 postcode = "YO10 5DD"
