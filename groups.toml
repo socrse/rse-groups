@@ -258,9 +258,9 @@ lon = -1.395714
 
 [st-andrews]
 name = "University of St Andrews"
-head = "Alexander Konovalov"
-website = "Under construction (newly established Research Software Group at the School of Computer Science) https://rse.cs.st-andrews.ac.uk/"
-email = "alexander.konovalov@st-andrews.ac.uk"
+head = "Olexandr Konovalov"
+website = "https://rse.cs.st-andrews.ac.uk/"
+email = "obk1@st-andrews.ac.uk"
 phone = "01334 461633"
 postcode = "KY16 9SX"
 lat = 56.339949
