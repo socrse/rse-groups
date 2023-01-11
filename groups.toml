@@ -324,6 +324,9 @@ lon = -0.138367
 
 [york]
 name = "University of York"
+head = "Emma Barnes, Philip Harrison"
+website = "https://www.york.ac.uk/it-services/research-computing/research-software-engineers/"
+email = "itsupport@york.ac.uk"
 postcode = "YO10 5DD"
 lat = 53.948419
 lon = -1.053544
