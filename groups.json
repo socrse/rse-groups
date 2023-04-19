@@ -60,10 +60,9 @@
     "type": "Feature",
     "properties": {
       "name": "University of Bath",
-      "head": "Conn O'Rourke",
-      "website": "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineer/",
-      "email": "rse-support@bath.ac.uk / cor22@bath.ac.uk",
-      "phone": "01225 386940",
+      "head": "Georgie Wellock",
+      "website": "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineering/",
+      "email": "rse-support@bath.ac.uk / glw33@bath.ac.uk",
       "postcode": "BA2 7AY"
     },
     "geometry": {
