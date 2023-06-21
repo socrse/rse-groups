@@ -431,3 +431,21 @@ name = "Princeton Research Computing"
 website = "https://researchcomputing.princeton.edu"
 lat = 40.34616
 lon = -74.65267
+
+[nocl]
+name = "National Oceanography Centre - Liverpool"
+lat = 53.4074492
+lon = -2.9716602
+postcode = "L3 5DA"
+head = "Colin Sauze"
+email = "colin.sauze@noc.ac.uk"
+website = "https://noc.ac.uk"
+
+[nocs]
+name = "National Oceanograpgy Centre - Southampton"
+lat = 50.8930079
+lon = -1.3951406
+postcode = "SO14 3ZH"
+head = "Colin Sauze"
+email = "colin.sauze@noc.ac.uk"
+website = "https://noc.ac.uk"
