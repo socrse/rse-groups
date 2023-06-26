@@ -837,5 +837,39 @@
         40.34616
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "National Oceanography Centre - Liverpool",
+      "postcode": "L3 5DA",
+      "head": "Colin Sauze",
+      "email": "colin.sauze@noc.ac.uk",
+      "website": "https://noc.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.9716602,
+        53.4074492
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "National Oceanography Centre - Southampton",
+      "postcode": "SO14 3ZH",
+      "head": "Colin Sauze",
+      "email": "colin.sauze@noc.ac.uk",
+      "website": "https://noc.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3951406,
+        50.8930079
+      ]
+    }
   }
 ]
