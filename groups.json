@@ -570,8 +570,8 @@
     "properties": {
       "name": "University College London",
       "head": "Jonathan Cooper",
-      "website": "http://www.ucl.ac.uk/research-it-services/research-software-development",
-      "email": "rc-softdev@ucl.ac.uk",
+      "website": "https://www.ucl.ac.uk/advanced-research-computing/research-software-engineers",
+      "email": "arc.collaborations@ucl.ac.uk",
       "phone": "020 310 86297",
       "postcode": "WC1E 6BT"
     },
