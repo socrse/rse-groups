@@ -442,7 +442,7 @@ email = "colin.sauze@noc.ac.uk"
 website = "https://noc.ac.uk"
 
 [nocs]
-name = "National Oceanograpgy Centre - Southampton"
+name = "National Oceanography Centre - Southampton"
 lat = 50.8930079
 lon = -1.3951406
 postcode = "SO14 3ZH"
