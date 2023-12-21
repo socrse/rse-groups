@@ -449,3 +449,12 @@ postcode = "SO14 3ZH"
 head = "Colin Sauze"
 email = "colin.sauze@noc.ac.uk"
 website = "https://noc.ac.uk"
+
+[dundee]
+name = "University of Dundee"
+head = "Kenny Gillen"
+website = "https://www.dundee.ac.uk/it"
+email = "k.h.gillen@dundee.ac.uk"
+postcode = "DD1 4HN"
+lat = 56.456478
+lon = -3.011300
