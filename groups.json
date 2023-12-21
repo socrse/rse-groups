@@ -871,5 +871,22 @@
         50.8930079
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "University of Dundee",
+      "head": "Kenny Gillen",
+      "website": "https://www.dundee.ac.uk/it",
+      "email": "k.h.gillen@dundee.ac.uk",
+      "postcode": "DD1 4HN"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.0113,
+        56.456478
+      ]
+    }
   }
 ]
