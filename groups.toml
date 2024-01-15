@@ -458,3 +458,13 @@ email = "k.h.gillen@dundee.ac.uk"
 postcode = "DD1 4HN"
 lat = 56.456478
 lon = -3.011300
+
+[hutton]
+name = "The James Hutton Institute"
+head = "Iain Milne"
+website = "https://ics.hutton.ac.uk/"
+email = "iain.milne@hutton.ac.uk"
+phone = "01382 568843"
+postcode = "DD2 5DA"
+lat = 56.457588
+lon = -3.062470
