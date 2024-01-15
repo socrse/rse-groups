@@ -888,5 +888,23 @@
         56.456478
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "The James Hutton Institute",
+      "head": "Iain Milne",
+      "website": "https://ics.hutton.ac.uk/",
+      "email": "iain.milne@hutton.ac.uk",
+      "phone": "01382 568843",
+      "postcode": "DD2 5DA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.06247,
+        56.457588
+      ]
+    }
   }
 ]
