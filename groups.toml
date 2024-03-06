@@ -468,3 +468,12 @@ phone = "01382 568843"
 postcode = "DD2 5DA"
 lat = 56.457588
 lon = -3.062470
+
+[liverpool]
+name = "University of Liverpool"
+head = "Ian Smith"
+website = "https://www.liverpool.ac.uk/it/advanced-research-computing/"
+email = "rse-support@liverpool.ac.uk"
+postcode = "L69 7ZX"
+lat = 53.405865
+lon = -2.966894
