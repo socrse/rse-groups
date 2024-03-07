@@ -906,5 +906,22 @@
         56.457588
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "University of Liverpool",
+      "head": "Ian Smith",
+      "website": "https://www.liverpool.ac.uk/it/advanced-research-computing/",
+      "email": "rse-support@liverpool.ac.uk",
+      "postcode": "L69 7ZX"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.966894,
+        53.405865
+      ]
+    }
   }
 ]
