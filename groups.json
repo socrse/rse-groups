@@ -59,6 +59,23 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "British Antarctic Survey Digital Innovation Team",
+      "head": "James Byrne",
+      "website": "https://www.bas.ac.uk",
+      "email": "digitalinnovation@bas.ac.uk",
+      "postcode": "CB3 0ET"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.080192,
+        52.212674
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "University of Bath",
       "head": "Georgie Wellock",
       "website": "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineering/",
