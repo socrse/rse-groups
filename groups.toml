@@ -34,6 +34,15 @@ postcode = "OX14 3EB"
 lat = 51.658881
 lon = -1.227663
 
+[bas]
+name = "British Antarctic Survey Digital Innovation Team"
+head = "James Byrne"
+website = "https://www.bas.ac.uk"
+email = "digitalinnovation@bas.ac.uk"
+postcode = "CB3 0ET"
+lat = 52.212674
+lon = 0.080192
+
 [bath]
 name = "University of Bath"
 head = "Georgie Wellock"
