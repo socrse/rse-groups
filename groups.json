@@ -940,5 +940,21 @@
         53.405865
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "University of Warwick",
+      "website": "https://warwick.ac.uk/research/rtp/rc/rse/",
+      "postcode": "CV4 7AL",
+      "email": "resource.rse@warwick.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5523447,
+        52.373734
+      ]
+    }
   }
 ]
