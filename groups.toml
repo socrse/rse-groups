@@ -494,3 +494,11 @@ postcode = "CV4 7AL"
 lat = 52.373734
 lon = -1.5523447
 email = "resource.rse@warwick.ac.uk"
+
+[eth-sis]
+name = "Scientific IT Services of ETH Zurich"
+head = "Bernd Rinn"
+website = "https://sis.id.ethz.ch"
+email = "sis.helpdesk@ethz.ch"
+lat = 47.4139693230361
+lon = 8.537222400000356
