@@ -956,5 +956,21 @@
         52.373734
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Scientific IT Services of ETH Zurich",
+      "head": "Bernd Rinn",
+      "website": "https://sis.id.ethz.ch",
+      "email": "sis.helpdesk@ethz.ch"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.537222400000356,
+        47.4139693230361
+      ]
+    }
   }
 ]
