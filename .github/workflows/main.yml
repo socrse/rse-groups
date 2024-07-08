@@ -16,9 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install reuse
-        run: pip install reuse
+        run: |
+          python -m venv ~/venv
+          ~/venv/bin/pip install reuse
       - name: Check REUSE spec
-        run: reuse lint
+        run: ~/venv/bin/reuse lint
   test:
     name: "Run code tests"
     runs-on: ubuntu-latest
