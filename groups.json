@@ -972,5 +972,69 @@
         47.4139693230361
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "UK Centre for Ecology & Hydrology - Lancaster",
+      "postcode": "LA1 4AP",
+      "email": "edsenquiries@ceh.ac.uk",
+      "website": "https://ceh.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.786857159906126,
+        54.009185916415035
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "UK Centre for Ecology & Hydrology - Edinburgh",
+      "postcode": "EH26 0QB",
+      "email": "edsenquiries@ceh.ac.uk",
+      "website": "https://ceh.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.2007829059209443,
+        55.86303700335336
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "UK Centre for Ecology & Hydrology - Wallingford",
+      "postcode": "OX10 8BB",
+      "email": "edsenquiries@ceh.ac.uk",
+      "website": "https://ceh.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.056646984358164,
+        51.616624611517494
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "UK Centre for Ecology & Hydrology - Bangor",
+      "postcode": "LL57 2UW",
+      "email": "edsenquiries@ceh.ac.uk",
+      "website": "https://ceh.ac.uk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -4.132393024116693,
+        53.22566945773393
+      ]
+    }
   }
 ]
