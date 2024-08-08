@@ -312,9 +312,9 @@
     "type": "Feature",
     "properties": {
       "name": "University of Leeds",
-      "head": "Martin Callaghan",
+      "head": "Patricia Ternes",
       "website": "https://arc.leeds.ac.uk",
-      "email": "m.callaghan@leeds.ac.uk",
+      "email": "p.ternesdallagnollo@leeds.ac.uk",
       "postcode": "LS2 9JT"
     },
     "geometry": {
