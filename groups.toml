@@ -502,3 +502,35 @@ website = "https://sis.id.ethz.ch"
 email = "sis.helpdesk@ethz.ch"
 lat = 47.4139693230361
 lon = 8.537222400000356
+
+[ukceh-lancaster]
+name = "UK Centre for Ecology & Hydrology - Lancaster"
+lat = 54.009185916415035
+lon = -2.786857159906126
+postcode = "LA1 4AP"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
+
+[ukceh-edinburgh]
+name = "UK Centre for Ecology & Hydrology - Edinburgh"
+lat = 55.86303700335336
+lon = -3.2007829059209443
+postcode = "EH26 0QB"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
+
+[ukceh-wallingford]
+name = "UK Centre for Ecology & Hydrology - Wallingford"
+lat = 51.616624611517494
+lon = -1.056646984358164
+postcode = "OX10 8BB"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
+
+[ukceh-bangor]
+name = "UK Centre for Ecology & Hydrology - Bangor"
+lat = 53.22566945773393
+lon = -4.132393024116693
+postcode = "LL57 2UW"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
