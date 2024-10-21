@@ -81,6 +81,14 @@ postcode = "BS1 5QD"
 lat = 51.452834
 lon = -2.605137
 
+[brown]
+name = "Brown University"
+head = "Paul Stey"
+website = "https://ccv.brown.edu"
+email = "support@ccv.brown.edu"
+lat = 41.8268
+lon = 71.4025
+
 [cambridge]
 name = "University of Cambridge"
 head = "Chris Edsall"
