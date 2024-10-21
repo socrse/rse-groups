@@ -441,6 +441,12 @@ website = "https://researchcomputing.princeton.edu"
 lat = 40.34616
 lon = -74.65267
 
+[RSE_AuNZ]
+name = "RSE Association of Australia and New Zealand"
+website = "https://rse-aunz.github.io/"
+lat = -30.86648
+lon = 147.43556
+
 [nocl]
 name = "National Oceanography Centre - Liverpool"
 lat = 53.4074492
