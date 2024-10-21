@@ -14,7 +14,7 @@ jobs:
     name: "Check licenses"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Install reuse
         run: |
           python -m venv ~/venv
@@ -25,9 +25,9 @@ jobs:
     name: "Run code tests"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: "3.x"
       - name: Install Poetry
@@ -41,9 +41,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: [licenses, test]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: "3.x"
       - name: Install Poetry
@@ -53,7 +53,7 @@ jobs:
       - name: Generate the GeoJSON
         run: poetry run generate
       - name: Archive GeoJSON
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: groups.json
           path: groups.json
@@ -63,9 +63,9 @@ jobs:
     needs: [generate]
     if: ${{ github.ref == 'refs/heads/master' && github.event_name != 'pull_request' }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Download all workflow run artifacts
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: groups.json
       - name: Move everything into place
