@@ -25,21 +25,29 @@ lon = -0.127014
 
 [ukaea]
 name = "UKAEA"
-head = "Alys Brett"
+head = "Dan Short"
 website = "No external website but https://twitter.com/RSECulham"
-email = "alys.brett@ukaea.uk"
-phone = "01235 465025"
+email = "dan.short@ukaea.uk"
+phone = "01235 467737"
 twitter = "@RSECulham"
 postcode = "OX14 3EB"
 lat = 51.658881
 lon = -1.227663
 
+[bas]
+name = "British Antarctic Survey Digital Innovation Team"
+head = "James Byrne"
+website = "https://www.bas.ac.uk"
+email = "digitalinnovation@bas.ac.uk"
+postcode = "CB3 0ET"
+lat = 52.212674
+lon = 0.080192
+
 [bath]
 name = "University of Bath"
-head = "Conn O'Rourke"
-website = "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineer/"
-email = "rse-support@bath.ac.uk / cor22@bath.ac.uk"
-phone = "01225 386940"
+head = "Georgie Wellock"
+website = "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineering/"
+email = "rse-support@bath.ac.uk / glw33@bath.ac.uk"
 postcode = "BA2 7AY"
 lat = 51.379324
 lon = -2.327157
@@ -160,9 +168,9 @@ lon = -0.118018
 
 [leeds]
 name = "University of Leeds"
-head = "Martin Callaghan"
+head = "Patricia Ternes"
 website = "https://arc.leeds.ac.uk"
-email = "m.callaghan@leeds.ac.uk"
+email = "p.ternesdallagnollo@leeds.ac.uk"
 postcode = "LS2 9JT"
 lat = 53.807958
 lon = -1.553329
@@ -237,7 +245,7 @@ lon = -0.945636
 
 [sheffield]
 name = "The University of Sheffield"
-head = "Paul Richmond"
+head = "Romain Thomas"
 website = "http://rse.shef.ac.uk"
 email = "rse@sheffield.ac.uk"
 twitter = "RSE_Sheffield"
@@ -258,9 +266,9 @@ lon = -1.395714
 
 [st-andrews]
 name = "University of St Andrews"
-head = "Alexander Konovalov"
-website = "Under construction (newly established Research Software Group at the School of Computer Science) https://rse.cs.st-andrews.ac.uk/"
-email = "alexander.konovalov@st-andrews.ac.uk"
+head = "Olexandr Konovalov"
+website = "https://rse.cs.st-andrews.ac.uk/"
+email = "obk1@st-andrews.ac.uk"
 phone = "01334 461633"
 postcode = "KY16 9SX"
 lat = 56.339949
@@ -307,15 +315,26 @@ lon = -3.879405
 [university-college-london]
 name = "University College London"
 head = "Jonathan Cooper"
-website = "http://www.ucl.ac.uk/research-it-services/research-software-development"
-email = "rc-softdev@ucl.ac.uk"
+website = "https://www.ucl.ac.uk/advanced-research-computing/research-software-engineers"
+email = "arc.collaborations@ucl.ac.uk"
 phone = "020 310 86297"
 postcode = "WC1E 6BT"
 lat = 51.523569
 lon = -0.132424
 
+[university-college-london-neuroinformatics]
+name = "Neuroinformatics Unit"
+head = "Adam Tyson"
+email = "adam.tyson@ucl.ac.uk"
+postcode = "W1T 4JG"
+lat = 51.521118
+lon = -0.138367
+
 [york]
 name = "University of York"
+head = "Emma Barnes, Philip Harrison"
+website = "https://www.york.ac.uk/it-services/research-computing/research-software-engineers/"
+email = "itsupport@york.ac.uk"
 postcode = "YO10 5DD"
 lat = 53.948419
 lon = -1.053544
@@ -427,3 +446,97 @@ name = "RSE Association of Australia and New Zealand"
 website = "https://rse-aunz.github.io/"
 lat = -30.86648
 lon = 147.43556
+
+[nocl]
+name = "National Oceanography Centre - Liverpool"
+lat = 53.4074492
+lon = -2.9716602
+postcode = "L3 5DA"
+head = "Colin Sauze"
+email = "colin.sauze@noc.ac.uk"
+website = "https://noc.ac.uk"
+
+[nocs]
+name = "National Oceanography Centre - Southampton"
+lat = 50.8930079
+lon = -1.3951406
+postcode = "SO14 3ZH"
+head = "Colin Sauze"
+email = "colin.sauze@noc.ac.uk"
+website = "https://noc.ac.uk"
+
+[dundee]
+name = "University of Dundee"
+head = "Kenny Gillen"
+website = "https://www.dundee.ac.uk/it"
+email = "k.h.gillen@dundee.ac.uk"
+postcode = "DD1 4HN"
+lat = 56.456478
+lon = -3.011300
+
+[hutton]
+name = "The James Hutton Institute"
+head = "Iain Milne"
+website = "https://ics.hutton.ac.uk/"
+email = "iain.milne@hutton.ac.uk"
+phone = "01382 568843"
+postcode = "DD2 5DA"
+lat = 56.457588
+lon = -3.062470
+
+[liverpool]
+name = "University of Liverpool"
+head = "Ian Smith"
+website = "https://www.liverpool.ac.uk/it/advanced-research-computing/"
+email = "rse-support@liverpool.ac.uk"
+postcode = "L69 7ZX"
+lat = 53.405865
+lon = -2.966894
+
+[warwick]
+name = "University of Warwick"
+website = "https://warwick.ac.uk/research/rtp/rc/rse/"
+postcode = "CV4 7AL"
+lat = 52.373734
+lon = -1.5523447
+email = "resource.rse@warwick.ac.uk"
+
+[eth-sis]
+name = "Scientific IT Services of ETH Zurich"
+head = "Bernd Rinn"
+website = "https://sis.id.ethz.ch"
+email = "sis.helpdesk@ethz.ch"
+lat = 47.4139693230361
+lon = 8.537222400000356
+
+[ukceh-lancaster]
+name = "UK Centre for Ecology & Hydrology - Lancaster"
+lat = 54.009185916415035
+lon = -2.786857159906126
+postcode = "LA1 4AP"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
+
+[ukceh-edinburgh]
+name = "UK Centre for Ecology & Hydrology - Edinburgh"
+lat = 55.86303700335336
+lon = -3.2007829059209443
+postcode = "EH26 0QB"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
+
+[ukceh-wallingford]
+name = "UK Centre for Ecology & Hydrology - Wallingford"
+lat = 51.616624611517494
+lon = -1.056646984358164
+postcode = "OX10 8BB"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"
+
+[ukceh-bangor]
+name = "UK Centre for Ecology & Hydrology - Bangor"
+lat = 53.22566945773393
+lon = -4.132393024116693
+postcode = "LL57 2UW"
+email = "edsenquiries@ceh.ac.uk"
+website = "https://ceh.ac.uk"

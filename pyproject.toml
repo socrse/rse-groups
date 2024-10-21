@@ -12,8 +12,8 @@ python = "^3.9"
 tomli = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
-pytest = "^7.1"
-reuse = "^1.0.0"
+pytest = "^8.0"
+reuse = "^4.0.2"
 
 [tool.poetry.scripts]
 generate = 'groups:generate_geojson'
