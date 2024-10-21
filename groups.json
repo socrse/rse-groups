@@ -858,6 +858,20 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "RSE Association of Australia and New Zealand",
+      "website": "https://rse-aunz.github.io/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        147.43556,
+        -30.86648
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "National Oceanography Centre - Liverpool",
       "postcode": "L3 5DA",
       "head": "Colin Sauze",
