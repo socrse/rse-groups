@@ -146,6 +146,22 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Brown University",
+      "head": "Paul Stey",
+      "website": "https://ccv.brown.edu",
+      "email": "support@ccv.brown.edu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.4025,
+        41.8268
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "University of Cambridge",
       "head": "Chris Edsall",
       "website": "rse.group.cam.ac.uk",
