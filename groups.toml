@@ -551,8 +551,8 @@ website = "https://ceh.ac.uk"
 
 [ssc-uniheidelberg]
 name = "Scientific Software Center (Universität Heidelberg)"
-head = "Inga Ulusoy/Liam Keegan/Dominic Kempf"
-website = "https://www.ssc.uni-heidelberg.de/en"
+head = "Liam Keegan/Dominic Kempf/Inga Ulusoy"
+website = "https://www.ssc.uni-heidelberg.de"
 email = "ssc@iwr.uni-heidelberg.de"
 lat = 49.41750
 lon = 8.67563
