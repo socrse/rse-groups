@@ -199,7 +199,7 @@ postcode = "M13 9PL"
 lat = 53.466926
 lon = -2.233578
 
-[met office]
+[met-office]
 name = "Met Office"
 website = "https://www.metoffice.gov.uk/research; a specific SSE web page will be added soon!"
 postcode = "EX1 3PB"
