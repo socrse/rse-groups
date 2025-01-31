@@ -555,3 +555,11 @@ lon = -4.132393024116693
 postcode = "LL57 2UW"
 email = "edsenquiries@ceh.ac.uk"
 website = "https://ceh.ac.uk"
+
+[ssc-uniheidelberg]
+name = "Scientific Software Center (Universität Heidelberg)"
+head = "Liam Keegan/Dominic Kempf/Inga Ulusoy"
+website = "https://www.ssc.uni-heidelberg.de"
+email = "ssc@iwr.uni-heidelberg.de"
+lat = 49.41750
+lon = 8.67563
