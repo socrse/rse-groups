@@ -376,6 +376,21 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Met Office",
+      "website": "https://www.metoffice.gov.uk/research; a specific SSE web page will be added soon!",
+      "postcode": "EX1 3PB"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.475407,
+        50.727204
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Newcastle University",
       "head": "Mark Turner",
       "email": "mark.turner@ncl.ac.uk",
@@ -1064,6 +1079,22 @@
       "coordinates": [
         -4.132393024116693,
         53.22566945773393
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Scientific Software Center (Universit\u00e4t Heidelberg)",
+      "head": "Liam Keegan/Dominic Kempf/Inga Ulusoy",
+      "website": "https://www.ssc.uni-heidelberg.de",
+      "email": "ssc@iwr.uni-heidelberg.de"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.67563,
+        49.4175
       ]
     }
   }
