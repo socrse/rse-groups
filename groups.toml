@@ -337,6 +337,15 @@ postcode = "WC1E 6BT"
 lat = 51.523569
 lon = -0.132424
 
+[uclh-safehr]
+name = "SAFEHR, University College London Hospitals NHS Foundation Trust"
+head = "Stef Piatek"
+website = "https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr"
+email = "uclh.safehr@nhs.net"
+postcode = "NW1 2DA"
+lat = 51.5259404
+lon = -0.1357282
+
 [university-college-london-neuroinformatics]
 name = "Neuroinformatics Unit"
 head = "Adam Tyson"
