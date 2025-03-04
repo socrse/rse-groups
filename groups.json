@@ -634,6 +634,23 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "SAFEHR, University College London Hospitals NHS Foundation Trust",
+      "head": "Stef Piatek",
+      "website": "https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr",
+      "email": "uclh.safehr@nhs.net",
+      "postcode": "NW1 2DA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.1357282,
+        51.5259404
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Neuroinformatics Unit",
       "head": "Adam Tyson",
       "email": "adam.tyson@ucl.ac.uk",
