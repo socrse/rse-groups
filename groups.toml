@@ -55,7 +55,7 @@ lon = -2.327157
 [birmingham]
 name = "University of Birmingham"
 head = "Andrew Edmondson"
-website = "https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/research-software-group.aspx"
+website = "https://www.birmingham.ac.uk/rsg"
 postcode = "B15 2TT"
 lat = 52.453282
 lon = -1.92789
@@ -336,6 +336,15 @@ phone = "020 310 86297"
 postcode = "WC1E 6BT"
 lat = 51.523569
 lon = -0.132424
+
+[uclh-safehr]
+name = "SAFEHR, University College London Hospitals NHS Foundation Trust"
+head = "Stef Piatek"
+website = "https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr"
+email = "uclh.safehr@nhs.net"
+postcode = "NW1 2DA"
+lat = 51.5259404
+lon = -0.1357282
 
 [university-college-london-neuroinformatics]
 name = "Neuroinformatics Unit"
