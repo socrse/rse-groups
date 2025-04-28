@@ -1114,5 +1114,22 @@
         49.4175
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Research Software Engineering Ireland",
+      "website": "https://www.ie-rse.org",
+      "email": "info@ie-rse.org",
+      "phone": "+353 61 202 700",
+      "postcode": "V94 T9PX"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-8.572490844181713",
+        "52.67375073678659"
+      ]
+    }
   }
 ]
