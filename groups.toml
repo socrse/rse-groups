@@ -572,3 +572,12 @@ website = "https://www.ssc.uni-heidelberg.de"
 email = "ssc@iwr.uni-heidelberg.de"
 lat = 49.41750
 lon = 8.67563
+
+[RSE_Ireland]
+name = "Research Software Engineering Ireland"
+website = "https://www.ie-rse.org"
+email = "info@ie-rse.org"
+phone = "+353 61 202 700"
+postcode = "V94 T9PX"
+lat = "52.67375073678659"
+lon = "-8.572490844181713"
