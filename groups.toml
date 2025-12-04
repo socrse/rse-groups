@@ -87,7 +87,7 @@ head = "Paul Stey"
 website = "https://ccv.brown.edu"
 email = "support@ccv.brown.edu"
 lat = 41.8268
-lon = 71.4025
+lon = -71.4025
 
 [cambridge]
 name = "University of Cambridge"
