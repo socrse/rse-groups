@@ -685,9 +685,9 @@
     "type": "Feature",
     "properties": {
       "name": "University of Exeter",
-      "head": "Katie Finch",
-      "website": "https://www.exeter.ac.uk/idsai/team/researchsoftwareengineers/",
-      "email": "k.j.finch@exeter.ac.uk",
+      "head": "Fliss Guest",
+      "website": "https://www.exeter.ac.uk/research/research-software-and-analytics/",
+      "email": "f.l.guest@exeter.ac.uk",
       "postcode": "EX4 4PY"
     },
     "geometry": {
