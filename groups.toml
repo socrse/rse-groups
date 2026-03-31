@@ -299,11 +299,11 @@ lat = 56.341752
 lon = -2.793303
 
 [stfc-software-engineering-group]
-name = "STFC Software Engineering Group"
-head = "Alejandra Gonzalez-Beltran"
-website = "https://www.scd.stfc.ac.uk/Pages/Software-Engineering-Group.aspx"
-email = "alejandra.gonzalez-beltran@stfc.ac.uk"
-phone = "+44 (0)1235 446339"
+name = "STFC Software Engineering Community"
+head = "Jens Jensen"
+website = "https://www.sc.stfc.ac.uk/research-and-expertise/software-engineering/"
+email = "jens.jensen@stfc.ac.uk"
+phone = "+44 (0)1235 446104"
 postcode = "OX11 0QX"
 lat = 51.574887
 lon = -1.314517
