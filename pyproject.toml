@@ -15,7 +15,7 @@ tomli = "^2.0.1"
 optional = true
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.0"
+pytest = "^8.4"
 reuse = "^5.0.2"
 
 [tool.poetry.scripts]
