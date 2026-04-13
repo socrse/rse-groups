@@ -9,13 +9,13 @@ authors = ["Matt Williams <m.williams@society-rse.org>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-tomli = "^2.0.1"
+tomli = "^2.4.1"
 
 [tool.poetry.group.dev]
 optional = true
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.0"
+pytest = "^8.4"
 reuse = "^5.1.1"
 
 [tool.poetry.scripts]
