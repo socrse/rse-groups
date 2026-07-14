@@ -291,8 +291,8 @@ lon = -2.809421
 
 [st-andrews-rescomp]
 name = "University of St Andrews"
-head = "Patrick McCann/Swithun Crowe/ Mary Woodcock Kroble"
-website = "(slightly out-of-date; new site expected soon) https://www.st-andrews.ac.uk/library/services/researchsupport/digihum-rescomp/"
+head = "Patrick McCann / Swithun Crowe / Mary Woodcock Kroble"
+website = "https://researchcomputing.wp.st-andrews.ac.uk"
 email = "research-computing@st-andrews.ac.uk"
 postcode = "KY16 9AL"
 lat = 56.341752
