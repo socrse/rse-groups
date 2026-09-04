@@ -327,6 +327,14 @@ postcode = "SA1 8EN"
 lat = 51.6188
 lon = -3.879405
 
+[swiss]
+name = "rse.swiss"
+head = "Uwe Schmitt"
+website = "https://rse.swiss/"
+email = "rse-contact@sympa.ethz.ch"
+lat = 47.4139693230361
+lon = 8.537222400000356
+
 [university-college-london]
 name = "University College London"
 head = "Jonathan Cooper"
