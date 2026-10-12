@@ -528,9 +528,9 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "University of St Andrews",
+      "name": "Research Software Group, School of Computer Science, University of St Andrews",
       "head": "Olexandr Konovalov",
-      "website": "https://rse.cs.st-andrews.ac.uk/",
+      "website": "https://www.st-andrews.ac.uk/computer-science/research/groups/research-software/",
       "email": "obk1@st-andrews.ac.uk",
       "phone": "01334 461633",
       "postcode": "KY16 9SX"
