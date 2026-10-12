@@ -8,8 +8,7 @@ description = ""
 authors = ["Matt Williams <m.williams@society-rse.org>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-tomli = "^2.4.1"
+python = "^3.11"
 
 [tool.poetry.group.dev]
 optional = true

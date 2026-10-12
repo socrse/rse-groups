@@ -7,9 +7,9 @@ from difflib import get_close_matches
 import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
+import tomllib
 from typing import List
 
-import tomli
 
 
 def generate_geojson():
@@ -17,7 +17,7 @@ def generate_geojson():
     geojson_path = Path("groups.json")
 
     with open(data_path, "rb") as f:
-        all_groups = tomli.load(f)
+        all_groups = tomllib.load(f)
 
     geo_groups = []
 
