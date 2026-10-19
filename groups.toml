@@ -349,6 +349,7 @@ lon = -0.1357282
 [university-college-london-neuroinformatics]
 name = "Neuroinformatics Unit"
 head = "Adam Tyson"
+website = "https://neuroinformatics.dev/"
 email = "adam.tyson@ucl.ac.uk"
 postcode = "W1T 4JG"
 lat = 51.521118
