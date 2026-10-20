@@ -94,8 +94,8 @@
     "type": "Feature",
     "properties": {
       "name": "University of Birmingham",
-      "head": "Andrew Edmondson",
-      "website": "https://www.birmingham.ac.uk/rsg",
+      "head": "Adrian Garcia",
+      "website": "https://www.birmingham.ac.uk/research/arc",
       "postcode": "B15 2TT"
     },
     "geometry": {
