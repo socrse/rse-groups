@@ -582,3 +582,12 @@ phone = "+353 61 202 700"
 postcode = "V94 T9PX"
 lat = "52.67375073678659"
 lon = "-8.572490844181713"
+
+[VGG_RSE]
+name = "Research Software Group at Visual Geometry Group"
+website = "https://www.robots.ox.ac.uk/~vgg/"
+email = "vgg-webmasters@robots.ox.ac.uk"
+twitter = "@Oxford_VGG"
+postcode = "OX2 6NN"
+lat = "51.76087839150613"
+lon = "-1.26001064077417"
