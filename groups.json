@@ -1132,5 +1132,22 @@
         "52.67375073678659"
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Research Software Group at Visual Geometry Group",
+      "website": "https://www.robots.ox.ac.uk/~vgg/",
+      "email": "vgg-webmasters@robots.ox.ac.uk",
+      "twitter": "@Oxford_VGG",
+      "postcode": "OX2 6NN"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.26001064077417",
+        "51.76087839150613"
+      ]
+    }
   }
 ]
