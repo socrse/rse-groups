@@ -77,9 +77,9 @@
     "type": "Feature",
     "properties": {
       "name": "University of Bath",
-      "head": "Georgie Wellock",
-      "website": "FWIW: https://www.bath.ac.uk/campaigns/research-software-engineering/",
-      "email": "rse-support@bath.ac.uk / glw33@bath.ac.uk",
+      "head": "Stephen Cook",
+      "website": "https://www.bath.ac.uk/research-facilities/research-software-engineering/",
+      "email": "research-software-engineering@bath.ac.uk / spc67@bath.ac.uk",
       "postcode": "BA2 7AY"
     },
     "geometry": {
