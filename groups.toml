@@ -591,3 +591,11 @@ twitter = "@Oxford_VGG"
 postcode = "OX2 6NN"
 lat = "51.76087839150613"
 lon = "-1.26001064077417"
+
+[UiT]
+name = "UiT The Arctic University of Norway"
+website = "https://research-software.uit.no"
+email = "rse@uit.no"
+postcode = "NO-9037 Tromsø"
+lat = "69.680511"
+lon = "18.973133"
