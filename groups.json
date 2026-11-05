@@ -1149,5 +1149,21 @@
         "51.76087839150613"
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "UiT The Arctic University of Norway",
+      "website": "https://research-software.uit.no",
+      "email": "rse@uit.no",
+      "postcode": "NO-9037 Troms\u00f8"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "18.973133",
+        "69.680511"
+      ]
+    }
   }
 ]
